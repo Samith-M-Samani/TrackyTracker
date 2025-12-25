@@ -1,0 +1,9 @@
+{
+  "appId": "app.lovable.8e9a2b2cffca46fdaf9538227b9ef171",
+  "appName": "Daily Logs",
+  "webDir": "dist",
+  "server": {
+    "url": "https://8e9a2b2c-ffca-46fd-af95-38227b9ef171.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  }
+}
